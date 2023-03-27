@@ -1,7 +1,7 @@
 print("Hello world!")
 print("Not another hello world")
-print()
 print("No")
+print()
 print("More")
 print("Hello")
 print("World")
